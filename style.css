@@ -6,6 +6,17 @@ body {
     height: 100%;
 }
 
+.secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.main-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .navbar {
     background-color: #1F2937;
     color: white;
@@ -19,8 +30,10 @@ li {
     list-style: none;
 }
 
-.logo {
+.header-logo {
     margin: 0;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .hero {
