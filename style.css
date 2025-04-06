@@ -46,3 +46,12 @@ li {
     background-color: #1F2937;
     color: white;
 }
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.car-text {
+    text-align: center;
+}
